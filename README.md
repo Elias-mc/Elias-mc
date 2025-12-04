@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://i.pinimg.com/736x/38/85/cd/3885cd121378c38b9416ea74da44998a.jpg">
+</p>
+  
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F5FF&center=true&vCenter=true&width=650&lines=Hola!+Soy+Elias;Bienvenido+a+mi+GitHub!;Programador+principiante;Aprendiendo+Python">
 </p>
 

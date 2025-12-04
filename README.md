@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F5FF&center=true&vCenter=true&width=650&lines=Hola!+Soy+Marcelo;Bienvenido+a+mi+GitHub!;Programador+principiante;Aprendiendo+Python+y+Roblox">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F5FF&center=true&vCenter=true&width=650&lines=Hola!+Soy+Elias;Bienvenido+a+mi+GitHub!;Programador+principiante;Aprendiendo+Python">
 </p>
 
 ---

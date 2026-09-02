@@ -1,8 +1,4 @@
-<div align="center">
 
-[🇪🇸 **Español**](README.md)　|　[🇬🇧 English](README_EN.md)
-
-</div>
 
 ### Hola, ¿qué tal? <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
